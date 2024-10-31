@@ -1,0 +1,14 @@
+div{
+    margin: 5px;
+    padding: 10px;
+}
+h1,h2{
+    background-color: aliceblue;
+
+}
+p{
+    color: rgb(180, 5, 5);
+}
+body{
+    background-color: goldenrod;
+}
